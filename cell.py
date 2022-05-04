@@ -1,4 +1,3 @@
-import ctypes
 import random
 import sys
 from tkinter import Button, Label, messagebox
